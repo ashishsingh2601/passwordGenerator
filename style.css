@@ -21,7 +21,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    
+    box-shadow: 12px 12px rgb(51, 86, 100);
 }
 .form{
     display: grid;
@@ -48,7 +48,7 @@ label{
 .passwordDisplay{
     background-color: #ffffff;
     color: #000;
-    padding: 1rem; 
+    padding: 1.8rem; 
     border: 1px solid #333;
     height: 2rem;
     width: 360px;
